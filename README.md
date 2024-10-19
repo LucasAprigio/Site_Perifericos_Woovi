@@ -4,7 +4,7 @@
 
 # Integração com API de cobrança Woovi ​🚀​
 
-## Neste repositório, clonei meu projeto "Site Periféricos" e integrei a criação de cobranças via API da Woovi. Ao clicar em "Pagar com Pix", uma cobrança é gerada no sistema da Woovi. O projeto foi desenvolvido utilizando HTML, CSS e JavaScript, com o objetivo de aprender sobre integrações de API e aprimorar minhas habilidades em desenvolvimento web.
+## Neste repositório, clonei meu projeto "Site Periféricos" e integrei a criação de cobranças via API da Woovi. O projeto foi desenvolvido utilizando HTML, CSS e JavaScript, com o objetivo de aprender sobre integrações de API e aprimorar minhas habilidades em desenvolvimento web.
 
 ## Instrução de Instalação ⚙️​
 ### Pré Requisitos 📍
@@ -19,3 +19,6 @@
   "Authorization": "<AppID>"
 }
 ```
+## Instrução de Uso 💻​
+1. **Após colocar seu AppId basta ir em algum produto e clicar em "Pagar com PIX".**
+2. **Logo após dentro da Plataforma da Woovi, apenas acessar a aba "COBRANÇAS > COBRANÇAS" que estará lá.**
