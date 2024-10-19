@@ -4,7 +4,7 @@
 
 # Integração com API de cobrança Woovi ​🚀​
 
-## Neste repositório, clonei meu projeto "Site Periféricos" e integrei a criação de cobranças via API da Woovi. O projeto foi desenvolvido utilizando HTML, CSS e JavaScript, com o objetivo de aprender sobre integrações de API e aprimorar minhas habilidades em desenvolvimento web.
+ <h2> Neste repositório, clonei meu projeto "Site Periféricos" e integrei a criação de cobranças via API da Woovi. O projeto foi desenvolvido utilizando HTML, CSS e JavaScript, com o objetivo de aprender sobre integrações de API e aprimorar minhas habilidades em desenvolvimento web.</h2>
 
 ## Instrução de Instalação ⚙️​
 ### Pré Requisitos 📍
