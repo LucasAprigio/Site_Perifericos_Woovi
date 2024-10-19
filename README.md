@@ -1,2 +1,2 @@
-# Site_Perifericos_Woovi
- Neste repositório eu cloquei meu outro projeto "Site Periféricos" e adicionei a API de criação de cobrança da Woovi
+# INTEGRAÇÃO COM A API DE CORANÇA WOOVI
+## Neste repositório eu clonei meu outro projeto "Site Periféricos" e integrei a criação de cobrança da Woovi via API
