@@ -22,3 +22,6 @@
 ## Instrução de Uso 💻​
 1. **Após colocar seu AppId basta ir em algum produto e clicar em "Pagar com PIX".**
 2. **Logo após dentro da Plataforma da Woovi, apenas acessar a aba "COBRANÇAS > COBRANÇAS" que estará lá.**
+
+## License 
+ Este projeto está sobre a licença do [MIT](https://github.com/LucasAprigio/Site_Perifericos_Woovi/blob/main/LICENSE)
