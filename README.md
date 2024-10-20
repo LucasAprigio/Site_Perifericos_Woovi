@@ -8,8 +8,7 @@
 
 ## Instrução de Instalação ⚙️​
 ### Pré Requisitos 📍
-1. **Ter o [Node](https://nodejs.org/pt) instalado.**
-2. **Ter uma conta na [Woovi](https://app.woovi.com/register).**
+1. **Ter uma conta na [Woovi](https://app.woovi.com/register).**
 
 ### Etapas ​📝​
 1. **Criar sua API de teste na [PLATAFORMA](https://developers.openpix.com.br/docs/apis/getting-started-api#tag/webhook/paths/~1api~1v1~1webhook~1ips/get).**
