@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_images/1773494136676474880/cYUaHtQ1_400x400.jpg" alt="Integração">
+  <img src="computadores/Site.png"> 
 </p>
 
 # Integração com API de cobrança Woovi ​🚀​
